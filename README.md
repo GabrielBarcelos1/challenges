@@ -18,7 +18,7 @@ The goal is to test your in-depth knowledge of tools and technologies that you m
 
 > 👉 Check out the currently available job openings on [our careers page](https://croct.com/careers/).
 
-### Evaluation criteria
+### Evaluation Criteria
 
 The Croct team will review your challenge based on the following criteria:
 
@@ -30,7 +30,7 @@ Does the solution do what was asked? If anything is missing, does the README exp
 Does the solution take a creative approach to solve the problem?
 - 🦾 **Usability**  
 Is the solution accessible and helpful to users?
-- 🪄 **Maintainability**  
+- :mage: **Maintainability**  
 Is the solution simple, easy to understand, and maintainable?
 
 
